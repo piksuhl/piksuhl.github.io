@@ -1,5 +1,5 @@
 <p align="center">
-<img style="height: 200px;" src="https://cartxrrcodes.github.io/files/pik.png">
+<img style="height: 200px;" src="https://cartxrrcodes.github.io/imgs/piksuhl.png">
 </p>
 <h1 align="center">Piksuhl</h1>
 <p align="center">Modern and Simplistic Unbl0cked Game Site 😮</p>
